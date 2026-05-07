@@ -1,0 +1,15 @@
+MGWR 7 TON VAN
+++++++++++++++
+
+These were built from 1893 onwards, a modernisation of an earlier 1972 design. 
+The open centre section remained popular in Ireland long after it became rare
+on British lines, perhaps because it was easily adapted for cattle transport-
+this being a major aspect of Irish transportation.
+
+They remained in use until after the Second World War (Emergency).
+
+Revision
+--------
+V0.2 26/05/07	Cutouts in solebars for W irons improved
+				Louvres in side blanked
+				
