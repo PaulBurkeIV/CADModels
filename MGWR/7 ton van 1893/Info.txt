@@ -10,6 +10,13 @@ They remained in use until after the Second World War (Emergency).
 
 Revision
 --------
-V0.2 26/05/07	Cutouts in solebars for W irons improved
+V0.1 			Initial commit
+		
+V0.2 26/05/27	Cutouts in solebars for W irons improved
 				Louvres in side blanked
+				
+V0.3 13/04/27	Buffer holes added
+
+V0.4 14/04/27	Door handle holes added
+				Extra body frame fixings added
 				
