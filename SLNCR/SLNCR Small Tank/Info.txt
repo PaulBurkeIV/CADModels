@@ -1,0 +1,16 @@
+SLNCR Leitrim Class
++++++++++++++++++++
+
+Known as the Small Tanks, these five 0-6-4 tanks were built by Beyer Peacock between
+1882 and 1899, and withdrawn between 1947 and the final closure of the line in 1957.
+None were preserved. This model represents the last locomotive built, Hazlewood, which was 
+chosen because the cab was "modernised" at some stage, making it easier to design as
+a 3D printing project.
+
+Revision
+--------
+V0.1 			09/06/26
+				Initial commit. Boiler, cab, tanks and bunkers only.
+				Partially detailed.
+		
+
