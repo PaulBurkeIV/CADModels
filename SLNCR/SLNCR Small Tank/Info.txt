@@ -12,5 +12,8 @@ Revision
 V0.1 			09/06/26
 				Initial commit. Boiler, cab, tanks and bunkers only.
 				Partially detailed.
+V0.11			10/06/25
+				Frames and running plate added.
+				More detailing.
 		
 
