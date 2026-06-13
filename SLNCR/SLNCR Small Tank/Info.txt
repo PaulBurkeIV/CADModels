@@ -7,6 +7,9 @@ None were preserved. This model represents the last locomotive built, Hazlewood,
 chosen because the cab was "modernised" at some stage, making it easier to design as
 a 3D printing project.
 
+Note that the full assembly isn't meant to be printed as such, unless you want
+a static model.
+
 Revision
 --------
 V0.1 			09/06/26
@@ -15,5 +18,10 @@ V0.1 			09/06/26
 V0.11			10/06/25
 				Frames and running plate added.
 				More detailing.
+V0.12			13/06/25
+				Cab roof added
+				Full assembly added
+				Frames - motor mount added.
+				Frames - Axeboxes added
 		
 
