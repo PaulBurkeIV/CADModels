@@ -28,7 +28,7 @@ V0.7 01/07/26	Wheelbase corrected
 				Chassis added - rigid & 3 point
 				Full assembly added (information only)
 				
-Both versions of the chassis are designed for sleeve bearings between the wheels. The 3 point bearing
-is used with the rocker, held fairly loosely together by an M4 screw/ nut. 
+Both versions of the chassis are designed for sleeve bearings between the wheels, 21mm gauge P4 standard. 
+The 3 point bearing is used with the rocker, held fairly loosely together by an M4 screw/ nut. 
 				
 				
