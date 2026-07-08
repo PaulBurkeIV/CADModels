@@ -23,5 +23,8 @@ V0.12			13/06/25
 				Full assembly added
 				Frames - motor mount added.
 				Frames - Axeboxes added
+V0.32			08/07/25
+				Update of boiler, cab&tanks, boiler fittings
+				Outdated files removed
 		
 
